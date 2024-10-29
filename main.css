@@ -1,0 +1,16 @@
+.team{
+    text-align: center;
+}
+i{
+   color: white;
+    background-color: black;
+  
+}
+.one{
+    float: left;
+    width: 32%;
+
+}
+.clr{
+    clear: left;
+}
